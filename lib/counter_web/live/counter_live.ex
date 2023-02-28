@@ -1,3 +1,4 @@
+#TESTE
 defmodule CounterWeb.CounterLive do
     use Phoenix.LiveView
 
